@@ -24,7 +24,7 @@ func main() {
 		v := ldr.Get()
 		print(v)
 		print(" ")
-		if v < 15000 {
+		if v < 19000 {
 			led.Set(true)
 		} else {
 			led.Set(false)
