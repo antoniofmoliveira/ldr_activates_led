@@ -10,9 +10,9 @@ Activates LED using a light dependent resistor with an arduino uno smd and Golan
 ## TinyGo Toolkit
 
 * Connect board (arduino uno smd)
-* View > Command Palette > TinyGo: Initilize TinyGo Project
+* View > Command Palette > TinyGo: Initialize TinyGo Project
 * View > Command Palette > TinyGo: Configure Intellisense
-* Project > Target (arduino)
+* Project > Target (arduino uno)
 * Project > Port (/dev/ttyUSB0)
 * Project Baud Rate (9600)
 * Project > Flash
